@@ -1,0 +1,8 @@
+/cached/
+/.idea/
+/.vscode/
+/.nuxt/
+/cached/opt-code/
+/src/logs/
+/offload/
+/datasets/
