@@ -242,3 +242,19 @@ There are many options to train the RL, an example is provided below:
     callback = CallbackList([save_model_callback])
     model = model.learn(total_timesteps=500_000, callback=callback, progress_bar=True, )
 ```
+
+# Citation 
+
+If you use this work, please cite our paper:
+
+```
+@inproceedings{ilager2025green,
+  author    = {Shashikant Ilager and Lukas Florian Briem and Ivona Brandic},
+  title     = {{GREEN-CODE: Learning Energy Efficient Code Generation in LLMs}},
+  booktitle = {Proceedings of the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)},
+  year      = {2025},
+  month     = {May},
+  address   = {Tromsø, Norway},
+  publisher = {IEEE}
+}
+```
