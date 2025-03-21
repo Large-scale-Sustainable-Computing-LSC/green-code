@@ -250,7 +250,7 @@ If you use this work, please cite our paper:
 ```
 @inproceedings{ilager2025green,
   author    = {Shashikant Ilager and Lukas Florian Briem and Ivona Brandic},
-  title     = {{GREEN-CODE: Learning Energy Efficient Code Generation in LLMs}},
+  title     = {{GREEN-CODE: Learning to Optimize Energy Efficiency in LLM-based Code Generation}},
   booktitle = {Proceedings of the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)},
   year      = {2025},
   month     = {May},
