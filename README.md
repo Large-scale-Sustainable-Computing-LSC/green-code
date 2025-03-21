@@ -34,7 +34,7 @@ Llama 3.2 3B and OPT 2.7B, using the JavaCorpus and PY150 datasets. Results show
 consumption between 23--50\% on average for code generation tasks without significantly affecting accuracy.
 
 The pretrained models are available at anonymized
-zenodo [Link](https://zenodo.org/records/14543583?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZmMGJkYmRkLTc4MDQtNDc0Yi1iOTE1LWIzNjFkMjlmZmRjMCIsImRhdGEiOnt9LCJyYW5kb20iOiI3NDhiZGMxYmM1NzgxOWE0ODk1ODQwYjBiZmM1MWI4YyJ9.pW2361rla2Toiw7uQPthxn-4uG9dag-fmwW7eSHAUDpsI_VDxoZUjQwT-auIhsqiZiYwQfYRvBiq0xuO97LwLA)
+zenodo [Link](https://zenodo.org/records/14543583)
 
 # Dependencies
 
